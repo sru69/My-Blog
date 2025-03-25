@@ -1,0 +1,16 @@
+Frame1.html
+<html>
+<head>
+<style>
+div{
+background-color:#7f4dd4;
+height:500px;
+}
+</style>
+</head>
+<body>
+<div>
+<h1>This is first frame</h1>
+</div>
+</body>
+</html>
